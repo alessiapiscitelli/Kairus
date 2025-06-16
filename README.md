@@ -3,7 +3,7 @@
 
 # Kairus
 
-🌟 Kairus: Time Management for Everyone
+🕥 Kairus: Time Management for Everyone
 
 Designed with dyscalculics in mind, Kairus makes time easy to understand and manage. 
 With its Scheduled Clock, the app transforms time into a clear, visual, and intuitive experience.
@@ -14,6 +14,8 @@ Whether you need support managing time or simply want a smarter way to organize 
 Perfect for individuals with dyscalculia who benefit from visual and audio cues, but also ideal for anyone seeking a stress-free way to stay on top of their schedule.
 
 ✨ Key Features
+
+Create or import an event, set how much time you need to prepare, and choose your timer—either a playlist to keep you on track or a visual timer for quiet focus. Notifications remind you when to start, and your timer helps you stay organized, so you’re always ready and on time.
 
 1. Import Calendar Events: Sync your existing events effortlessly.
 
