@@ -17,6 +17,8 @@ Perfect for individuals with dyscalculia who benefit from visual and audio cues,
 
 Create or import an event, set how much time you need to prepare, and choose your timer—either a playlist to keep you on track or a visual timer for quiet focus. Notifications remind you when to start, and your timer helps you stay organized, so you’re always ready and on time.
 
+<img src="Homescreen.PNG" alt="Screenshot" width= "30%"> <img src="AddEvent.PNG" alt="Screenshot" width= "30%"> <img src="SeeAll.PNG" alt="Screenshot" width= "30%"> <img src="Choose.PNG" alt="Screenshot" width= "30%"> <img src="Playlist.PNG" alt="Screenshot" width= "30%"> <img src="VisualTimer.PNG" alt="Screenshot" width= "30%">
+
 1. Import Calendar Events: Sync your existing events effortlessly.
 
 2. Focus on Current Events: The homepage highlights your current and upcoming events, so you always know what’s next.
