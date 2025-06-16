@@ -1,3 +1,6 @@
+
+<img src="App Icon-3.png" alt="Screenshot" width= "30%"> 
+
 # Kairus
 
 🌟 Kairus: Time Management for Everyone
