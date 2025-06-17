@@ -35,7 +35,7 @@ Create or import an event, set how much time you need to prepare, and choose you
 
 ⚒️ Installation
 
-
+<img src="Untitled 1.png" alt="Screenshot" width= "30%">
 
 Available on TestFlight
 
