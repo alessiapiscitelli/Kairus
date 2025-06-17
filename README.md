@@ -33,6 +33,12 @@ Create or import an event, set how much time you need to prepare, and choose you
 
 7. Visual Timer: If you can’t hear the music, let the visual timer guides you with a real-time progress tracking.
 
+⚒️ Installation
+
+
+
+Available on TestFlight
+
 
 
 
