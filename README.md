@@ -33,11 +33,11 @@ Create or import an event, set how much time you need to prepare, and choose you
 
 7. Visual Timer: If you can’t hear the music, let the visual timer guides you with a real-time progress tracking.
 
-⚒️ Installation
+⚒️ Installation:
 
-<img src="Untitled 1.png" alt="Screenshot" width= "30%">
+Download it now for free on AppStore!
 
-Available on TestFlight
+<img src="QR CODE KAIRUS.png" alt="Screenshot" width= "30%">
 
 
 
